@@ -1,0 +1,11 @@
+Kryptogarten-Core Changelog v.0.0.1 
+
+Date: April 14th 2016 
+
+Project repository creation. 
+
+First functionalities to be implemented: 
+- Encodings: base58, hex, binary;
+- Keypair generation;
+- Seeding with mnemonic words (BIP0039 and BIP0044);
+- Ciphers: DES, 3DES, Blowfish 
